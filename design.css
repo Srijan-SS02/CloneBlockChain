@@ -14,7 +14,7 @@ a{
 	width: 100%;
 	height: 650px;
 	margin: auto;
-	background-image: url(file:///C:/Users/sriva/OneDrive/Desktop/CloneBlockChain/images/home-hero-gradient.svg);
+	background-image: url(images/1.png);
 	
 }
 
@@ -58,7 +58,7 @@ a{
 	color: white;
 	display: flex;
 	background-color: rgb(18, 29, 51);
-	background-image: url(file:///C:/Users/sriva/OneDrive/Desktop/CloneBlockChain/images/banner.svg);
+	background-image: url(images/banner.png);
 	width: 100%;
 	height: 200px;
 	justify-content: center;
